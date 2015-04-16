@@ -1,14 +1,14 @@
 {
-    "name": "bugsnag/bugsnag",
+    "name": "kodeinfo/ticktock-bugs-tracker",
     "type": "library",
-    "description": "Official Bugsnag notifier for PHP applications.",
+    "description": "Tick Tock Bug Tracker.",
     "keywords": ["bugsnag", "exceptions", "errors", "logging", "tracking"],
-    "homepage": "https://github.com/bugsnag/bugsnag-php",
+    "homepage": "https://github.com/shellprog/bugsnag-php",
     "license": "MIT",
     "authors": [{
         "name": "James Smith",
-        "email": "notifiers@bugsnag.com",
-        "homepage": "https://bugsnag.com"
+        "email": "developers@kodeinfo.com",
+        "homepage": "http://kodeinfo.com"
     }],
 
     "require": {
