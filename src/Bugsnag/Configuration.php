@@ -3,8 +3,8 @@
 class Bugsnag_Configuration
 {
     public static $DEFAULT_TIMEOUT = 10;
-    public static $DEFAULT_ENDPOINT = 'https://notify.bugsnag.com';
-    public static $DEFAULT_NON_SSL_ENDPOINT = 'http://notify.bugsnag.com';
+    public static $DEFAULT_ENDPOINT = 'https://ticktock.app/notify';
+    public static $DEFAULT_NON_SSL_ENDPOINT = 'https://ticktock.app/notify';
 
     public $apiKey;
     public $autoNotify = true;
